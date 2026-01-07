@@ -1,7 +1,7 @@
 Run all setup commands at once:
 
 ```bash
-git clone git@github.com:phantriviethoang/laravel-inertia-react-starter-kit.git my-app && cd my-app && composer install && npm install && cp .env.example .env && php artisan key:generate && php artisan migrate
+git clone git@github.com:phantriviethoang/laravel-inertia-react-jsx-starter-kit.git my-app && cd my-app && composer install && npm install && cp .env.example .env && php artisan key:generate && php artisan migrate
 ```
 
 Then start servers:
